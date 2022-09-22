@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshsPatkar
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python and java (Basic).
+- 🌱 I’m currently learning python and C++.
 - 💞️ I’m looking to collaborate on coding projects based on python.
 - 📫 How to reach me harshspatkar@gmail.com 
 
